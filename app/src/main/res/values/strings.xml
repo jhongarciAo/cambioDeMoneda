@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cambio de moneda</string>
+    <string name="Titulo">Selección</string>
+    <string name="moneda_igual">Seleccionó la misma moneda </string>
+    <string name="campo_vacio">Debe ingresar una cantidad a convertir</string>
+    <string name="tvl_origen">Moneda de origen</string>
+    <string name="tvl_destino">Moneda de destino</string>
+    <string name="BT_boton">Realizar conversión</string>
+    <string name="tvl_resultado"> </string>
+    <string name="op1">Pesos colombianos</string>
+    <string name="op2">Pesos argentinos</string>
+    <string name="op3">Pesos chilenos</string>
+    <string name="hint_input">Valor a convertir</string>
+</resources>
